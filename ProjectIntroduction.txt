@@ -1,0 +1,10 @@
+ProjectIntroduction.txt
+In the era of smart phones, we have everything in our hand.
+ We can listen songs, watch movies, connect to worldwide also contact with online tutors, doctors etcetera.
+ To make learners' life more convenient I am come up with an idea for players and learners. 
+I have plan an app for players that name will be Sports Club. 
+This will be a simple standalone software application that meet the requirements of learners and players. 
+It will have many useful features that can be very beneficial for new comers and for those who do not have much knowledge about sports. 
+Moreover, famous players will also have accounts on this app and they will provide guidelines for playing different games. 
+Overall, I would say this app will provide more opportunities for talented individuals to interact with players and enhance their knowledge about sports. 
+They can also get to know many sport's events that about to happen and get registered in that events.
