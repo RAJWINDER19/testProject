@@ -1,4 +1,6 @@
-ProjectIntroduction.txt
+ProjectIntroduction.git 
+Rajwinder Kaur
+100398472
 In the era of smart phones, we have everything in our hand.
  We can listen songs, watch movies, connect to worldwide also contact with online tutors, doctors etcetera.
  To make learners' life more convenient I am come up with an idea for players and learners. 
