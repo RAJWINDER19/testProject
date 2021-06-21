@@ -8,3 +8,12 @@ It will have many useful features that can be very beneficial for new comers and
 Moreover, famous players will also have accounts on this app and they will provide guidelines for playing different games. 
 Overall, I would say this app will provide more opportunities for talented individuals to interact with players and enhance their knowledge about sports. 
 They can also get to know many sport's events that about to happen and get registered in that events.
+Features of Sports Club application are discussed in detail below:
+Everyone who wants to access this application must have to create an account.
+There will be search key on top, one can search for particular game and also he can add that sports into wish list or favorites.
+There will be rules and regulations tab that displays rules for each sports.
+It will also have locations tab that includes nearby locations of sports academy of particular sports.
+All the details of required accessories for sports, sports' outlets and links of online shopping apps will be provided.
+There will be videos from famous players of playing sports, giving instructions and motivations.
+It will also incorporate with biographies of famous sports’ personalities and their social media profile links.
+Other features including video conferencing, public and private policies and following options.
